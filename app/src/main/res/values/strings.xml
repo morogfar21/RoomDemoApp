@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Demo</string>
+    <string name="btnUpdate">Update</string>
+</resources>
